@@ -2,7 +2,7 @@ import tkinter as tk
 import angry_birds
 import snake_game
 import os
-import webbrowser # open website in browser
+# import webbrowser # open website in browser
 
 players = []
 def write(player):
